@@ -1,6 +1,6 @@
-[- Pie Website](https://icpdev.com/)
-[X](https://x.com/IceCreamPie9000)
-Email : icecreampie9000@gmail.com
+[- Pie Website](https://icpdev.com/)  
+[X](https://x.com/IceCreamPie9000)  
+Email : icecreampie9000@gmail.com  
 
 <!---
 IceCreamPie-dev/IceCreamPie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
