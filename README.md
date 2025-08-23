@@ -3,8 +3,7 @@
 Email : icecreampie9000@gmail.com  
 1. [ExtraInk](https://github.com/IceCreamPie-dev/ExtraInk)  
 
-2.
-[Shoot Master VR](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ)
+2.[Shoot Master VR](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ)
 
 <!---
 IceCreamPie-dev/IceCreamPie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
