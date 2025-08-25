@@ -2,7 +2,6 @@
 
 [![Pie Website](https://img.shields.io/badge/Website-icpdev.com-blue)](https://icpdev.com/)  
 [![X](https://img.shields.io/badge/X-%40IceCreamPie9000-black)](https://x.com/IceCreamPie9000)  
-**Email**: icecreampie9000@gmail.com
 
 ## Projects
 
