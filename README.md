@@ -1,4 +1,4 @@
-# IceCreamPie's Portfolio
+# IceCreamPie's Info
 
 [![Pie Website](https://img.shields.io/badge/Website-icpdev.com-blue)](https://icpdev.com/)  
 [![X](https://img.shields.io/badge/X-%40IceCreamPie9000-black)](https://x.com/IceCreamPie9000)  
