@@ -7,7 +7,7 @@
 
 | # | 프로젝트 | 역할군 | 기여 | 기간 | 기술 |
 |---|---------|------|--------------|--------|----------|
-| 0 | 스페이스 스크래퍼스 | 단독 | ALL | 2025.08.26 ~ | Unity6 |
+| 0 | 잉크스페이스 | 단독 | ALL | 2025.10.26 ~ | Node, React, OCI |
 | 1 | [조선 요마기](https://www.game-ping.kr/games/chosonyomagi) | 팀장 | 코드 80% 작성, 시스템 설계 | 2025.03.17 ~ 03.31 | Unity6 |
 | 2 | [Shoot Master VR](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ) | 단독 | ALL | 2024.09.05 ~ 10.04 | Godot4.3 |
 | 3 | [Smart Farm - 단말](https://github.com/Smart-Guardning/iot-esp32-sensorNode) | 팀장 | 코드 전체 작성, 기획, 시스템 설계 | 2024.05.02 ~ 06.11 | CPP, ESP32 |
