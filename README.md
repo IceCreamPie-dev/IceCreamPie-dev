@@ -9,6 +9,7 @@
 |---|---------|------|--------------|--------|----------|
 | 0 | 서사실 | Lead | ALL | 2026.3.26 ~ | C, GDScript |
 | 1 | [조선 요마기](https://www.game-ping.kr/games/chosonyomagi) | Lead | 코드 작성, 시스템 설계 | 2025.03.17 ~ 03.31 | Unity6 |
+| 1 | [Shoot Master](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ) | Lead | ALL | 2024.09.17 ~ 11.05 | Godot4.3 |
 <!---
 IceCreamPie-dev/IceCreamPie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
