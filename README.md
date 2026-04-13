@@ -7,8 +7,8 @@
 
 | # | 프로젝트 | 역할군 | 기여 | 기간 | 기술 |
 |---|---------|------|--------------|--------|----------|
-| 0 | 잉크스페이스 | 단독 | ALL | 2025.10.26 ~ | Node, React, OCI |
-| 1 | [조선 요마기](https://www.game-ping.kr/games/chosonyomagi) | 팀장 | 코드 작성, 시스템 설계 | 2025.03.17 ~ 03.31 | Unity6 |
+| 0 | 서사실 | Lead | ALL | 2026.3.26 ~ | C, GDScript |
+| 1 | [조선 요마기](https://www.game-ping.kr/games/chosonyomagi) | Lead | 코드 작성, 시스템 설계 | 2025.03.17 ~ 03.31 | Unity6 |
 <!---
 IceCreamPie-dev/IceCreamPie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
