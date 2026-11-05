@@ -7,17 +7,15 @@
 
 | # | 프로젝트 | 역할군 | 기여 | 기간 | 기술 |
 |---|---------|------|--------------|--------|----------|
-| 0 | 서사실 | Lead | ALL | 2026.3.26 ~ | C, GDScript |
+| 0 | [Shoot Master](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ) | Solo | ALL | 2024.09.17 ~ 11.05 | Godot4.3 |
 | 1 | [조선 요마기](https://www.game-ping.kr/games/chosonyomagi) | Lead | 코드 작성, 시스템 설계 | 2025.03.17 ~ 03.31 | Unity6 |
-| 1 | [Shoot Master](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ) | Lead | ALL | 2024.09.17 ~ 11.05 | Godot4.3 |
-<!---
-IceCreamPie-dev/IceCreamPie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=IceCreamPie-dev&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/IceCreamPie-dev"
-  width="600"
-  height="300"
-/>
+| 2 | [AssetArk](https://apps.microsoft.com/detail/9NVMTVB1Q4D5?hl=ko-kr&gl=KR&ocid=pdpshare) | Solo | All | 2026.09.17 ~ 10.25 | TS |
+
+## Now
+
+<img width="4096" height="2304" alt="IceCreamPie9000-2117666959949181203-01" src="https://github.com/user-attachments/assets/d9dd5c09-43ff-46a5-a706-5818149080c3" />
+
+## Pangwi 프리뷰
+https://github.com/user-attachments/assets/42c6a19d-1c06-48b0-9cb6-cbd8ee541f43
+
 </a>
